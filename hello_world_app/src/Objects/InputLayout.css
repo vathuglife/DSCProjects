@@ -1,0 +1,39 @@
+.Prompt{        
+    font-size:30px;    
+    font-family:Calibri;
+    color:White;
+}
+.TextInputWrapper{        
+    height:53px;
+    width:350px;
+    border: 5px solid white;
+    border-radius:20px;
+    justify-content:center;
+}
+::placeholder{
+    color:white;
+
+}
+.TextInput{
+    padding: 0 20px;    
+    background-color:#282c34;
+    color:white;
+    font-size:30px;    
+    height:50px;    
+    width:305px;
+    border-radius:14px;
+    border-color:transparent;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;    
+               
+}
+.nextButton{    
+    padding-left: 10px;
+    height: 50px;
+    width:50px;
+}
+
+.taskCreator{
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+}
